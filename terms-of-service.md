@@ -20,7 +20,7 @@ ArtSyncOfficial allows users to upload NFTs and request AI-generated image exten
 
 To use ArtSyncOfficial, you must:
 
-- Be at least 13 years old (or older, depending on your local laws)
+- Be at least 18 years old (or older, depending on your local laws)
 - Have the legal right to upload and modify the NFTs you submit
 - Agree to comply with these Terms and all applicable laws
 
@@ -118,5 +118,6 @@ Your continued use of the Service after changes constitutes acceptance of the ne
 
 For questions, feedback, or content removal requests:  
 📩 **artsyncofficial@gmail.com**
+
 
 
