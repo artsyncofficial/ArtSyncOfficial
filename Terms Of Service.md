@@ -1,5 +1,5 @@
 # Terms of Service – ArtSyncOfficial  
-**Effective Date:** [Insert Date]
+**Effective Date:** 02/08/2025
 
 Welcome to **ArtSyncOfficial**. These Terms of Service (“Terms”) govern your access to and use of our platform and Discord bot, **Lira**, which provides stylistically faithful visual transformations of user-uploaded NFTs.
 
@@ -118,4 +118,5 @@ Your continued use of the Service after changes constitutes acceptance of the ne
 
 For questions, feedback, or content removal requests:  
 📩 **artsyncofficial@gmail.com**
+
 
