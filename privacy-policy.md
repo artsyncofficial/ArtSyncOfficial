@@ -65,7 +65,7 @@ To exercise these rights, please contact us at the address below.
 
 ## 7. Children’s Privacy
 
-ArtSyncOfficial is not intended for children under 13 years old. We do not knowingly collect data from children under 18.
+ArtSyncOfficial is not intended for children under 13 years old. We do not knowingly collect data from people under the age of 18.
 
 ---
 
