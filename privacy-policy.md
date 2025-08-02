@@ -1,5 +1,5 @@
 # Privacy Policy – ArtSyncOfficial  
-**Effective Date:** [Insert Date]
+**Effective Date:** 02/08/2025
 
 ArtSyncOfficial ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use our Discord-based AI bot, **Lira**, and related services.
 
